@@ -3,7 +3,9 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-Như bát cơm bình dân xuất hiện ở mọi ngõ hẻm, Cloud đã trở thành "thực phẩm tinh thần" của thời đại số. Nếu cơm là hiện thân của "tồn tại vật chất" mà Hegel từng bàn đến, thì Cloud chính là sự biến chứng của "tồn tại ý niệm" trong không gian ảo! Mỗi ngày, ta làm món "cơm Cloud" với nguyên liệu là dữ liệu, nêm nếm bằng thuật toán, rồi "bày đĩa" trên giao diện người dùng. Đáng cười thay, cả hai đều tuân theo quy luật biện chứng cơ bản: càng ngon miệng, càng muốn "ăn" nhiều! Trong khi cơm bình dân thỏa mãn dạ dày vật chất với giá phải chăng, Cloud làm dịu cơn đói tri thức theo cách tương tự. Và như ông bà ta vẫn bảo "có thực mới vực được đạo", thời nay phải chăng đã trở thành "có Cloud mới vực được công việc"? 
+Như bát cơm bình dân xuất hiện ở mọi ngõ hẻm, Cloud đã trở thành "thực phẩm tinh thần" của thời đại số. Nếu cơm là hiện thân của "tồn tại vật chất" mà Hegel từng bàn đến, thì Cloud chính là sự biến chứng của "tồn tại ý niệm" trong không gian ảo! 
+Mỗi ngày, ta làm món "cơm Cloud" với nguyên liệu là dữ liệu, nêm nếm bằng thuật toán, rồi "bày đĩa" trên giao diện người dùng. Đáng cười thay, cả hai đều tuân theo quy luật biện chứng cơ bản: càng ngon miệng, càng muốn "ăn" nhiều! 
+Trong khi cơm bình dân thỏa mãn dạ dày vật chất với giá phải chăng, Cloud làm dịu cơn đói tri thức theo cách tương tự. Và như ông bà ta vẫn bảo "có thực mới vực được đạo", thời nay phải chăng đã trở thành "có Cloud mới vực được công việc"? 
 
 ## :computer: Technologies I Love
 * Flutter
