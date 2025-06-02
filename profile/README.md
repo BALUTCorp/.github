@@ -9,13 +9,13 @@ Mỗi ngày, ta làm món "cơm Cloud" với nguyên liệu là dữ liệu, nê
 
 Trong khi cơm bình dân thỏa mãn dạ dày vật chất với giá phải chăng, Cloud làm dịu cơn đói tri thức theo cách tương tự. Và như ông bà ta vẫn bảo "có thực mới vực được đạo", thời nay phải chăng đã trở thành "có Cloud mới vực được công việc"? 
 
-## :computer: Technologies I Love
+## :computer: Technologies We Love
 * Flutter
 * Machine Learning
 * Data Science
 * Frontend and Backend Web Development
 
-## :cloud: AWS Technologies I Love
+## :cloud: AWS Technologies We Love
 * AWS Lambda & Serverless Architecture
 * Amazon SageMaker for Machine Learning
 * Amazon QuickSight & AWS Data Pipeline
@@ -29,7 +29,7 @@ Trong khi cơm bình dân thỏa mãn dạ dày vật chất với giá phải c
 
 
 
- ## Who am I?
+ ## Who Are We?
  ```python
 class AWSSurvivalGuide:
     user = 'Haany Ali'
