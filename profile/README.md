@@ -22,6 +22,9 @@ Trong khi cơm bình dân thỏa mãn dạ dày vật chất với giá phải c
 * AWS Amplify & Amazon CloudFront for Web Solutions
 
 ## Programming Languages
+* SQL
+* Pascal
+* COBOL
 <!-- Trong phần header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <!-- Trong phần body -->
